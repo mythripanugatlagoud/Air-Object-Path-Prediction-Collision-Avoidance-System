@@ -3,7 +3,6 @@
 > A DRDO internship project developed at the Propulsion & Ground Armament Division (PGAD), DRDL Hyderabad, focusing on real-time aircraft trajectory prediction, scientific visualization, and collision avoidance using GUI systems and ML models.
 
 ---
-
 ## Overview
 
 This system is designed to plot the trajectory of air objects (e.g., missiles, aircraft) and predict possible collision paths. Built using Qt (C++), PostgreSQL, MATLAB, and Python ML tools, the project simulates a real-time GUI application for defense-grade path prediction.
@@ -45,6 +44,8 @@ This system is designed to plot the trajectory of air objects (e.g., missiles, a
 ## Screenshots
 
 > ![Screenshot 2025-06-26 230547](https://github.com/user-attachments/assets/236e3928-19d1-4db9-8b66-ba18a528396c)
+> ![ChatGPT Image Jul 6, 2025, 08_00_05 PM](https://github.com/user-attachments/assets/01c89dd2-923b-4769-a113-5fd629721bb6)
+
 
 ---
 
