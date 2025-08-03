@@ -1,7 +1,7 @@
 import psycopg2
 
 def get_connection():
-    return psycopg2.connect(
+    return psycopg2.connect(  
         dbname="drdlproject",
         user="postgres",
         password="drdl123",  
@@ -32,3 +32,4 @@ def insert_data_from_file(filename):
 
 if __name__ == "__main__":
     insert_data_from_file("AirCraft.txt")
+
