@@ -3,7 +3,7 @@ document.getElementById("loginForm")?.addEventListener("submit", function (e) {
   e.preventDefault();
   const username = document.getElementById("username").value;
   const password = document.getElementById("password").value;
-
+   
   console.log("🔐 Attempting login with:", username, password);
 
   fetch("http://localhost:5000/login", {
@@ -104,3 +104,4 @@ document.getElementById("changePasswordForm")?.addEventListener("submit", functi
       console.error("🚨 Change password error:", err);
     });
 });
+
