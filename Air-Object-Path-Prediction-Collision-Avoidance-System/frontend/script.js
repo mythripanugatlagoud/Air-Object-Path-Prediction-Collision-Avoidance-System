@@ -1,4 +1,4 @@
-// LOGIN
+// LOGIN 
 document.getElementById("loginForm")?.addEventListener("submit", function (e) {
   e.preventDefault();
   const username = document.getElementById("username").value;
@@ -104,4 +104,5 @@ document.getElementById("changePasswordForm")?.addEventListener("submit", functi
       console.error("🚨 Change password error:", err);
     });
 });
+
 
