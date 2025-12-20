@@ -1,13 +1,14 @@
 # Aircraft-Trajectory-Plotting-System✈️ 
  
-> A DRDO internship project developed at the Propulsion & Ground Armament Division (PGAD), DRDL Hyderabad, focusing on real-time aircraft trajectory prediction, scientific visualization, and collision avoidance using GUI systems and ML models. 
+> A DRDO internship project developed at the Propulsion & Ground Armament Division (PGAD), DRDL Hyderabad, focusing on real-time aircraft trajectory prediction, scientific visualization, and collision avoidance using GUI systems and basic ML models. 
   
 ---  
 ## Overview
 
-This system is designed to plot the trajectory of air objects (e.g., missiles, aircraft) and predict possible collision paths. Built using Qt (C++), PostgreSQL, MATLAB, and Python ML tools, the project simulates a real-time GUI application for defense-grade path prediction.     
+This system is designed to plot the trajectory of air objects such as aircraft and missiles and to predict possible collision paths. Built using Qt (C++), PostgreSQL, MATLAB, and Python-based ML tools, the project simulates a real-time GUI application for defense-grade path prediction and analysis.    
 
 --- 
+
   
 ## Tech Stack
 
