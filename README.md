@@ -1,4 +1,4 @@
-# Air Object Path Prediction & Collision Avoidance System✈️ 
+# Aircraft-Trajectory-Plotting-System✈️ 
  
 > A DRDO internship project developed at the Propulsion & Ground Armament Division (PGAD), DRDL Hyderabad, focusing on real-time aircraft trajectory prediction, scientific visualization, and collision avoidance using GUI systems and ML models. 
   
