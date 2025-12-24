@@ -1,7 +1,7 @@
 # Aircraft-Trajectory-Plotting-System✈️ 
  
 > A DRDO internship project developed at the Propulsion & Ground Armament Division (PGAD), DRDL Hyderabad, focusing on real-time aircraft trajectory prediction, scientific visualization, and collision avoidance using GUI systems and basic ML models. 
-  
+   
 ---  
 ## Overview
 
